@@ -1,6 +1,6 @@
 # ZenSensor GPIO
 ## Overview
-Mongoose-OS library for gpio-based [ZenSensor](https://github.com/zendiy-mgos/zsensor).
+Mongoose-OS library for attaching a [ZenSensor](https://github.com/zendiy-mgos/zsensor) to a GPIO value.
 ## GET STARTED
 Build up your own device in few minutes just starting from the following sample. Start including following libraries into your `mos.yml` file.
 ```yaml

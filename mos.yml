@@ -1,6 +1,6 @@
 author: ZenDIY
 type: lib
-description: Mongoose-OS library for gpio-based ZenSensor
+description: Mongoose-OS library for attaching a ZenSensor to a GPIO value
 version: 1.0
 
 sources:
